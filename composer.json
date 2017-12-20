@@ -1,0 +1,18 @@
+{
+    "name": "erikfig/curso-php-seguranca",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Erik Figueiredo",
+            "email": "erik.figueiredo@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23"
+    },
+    "autoload": {
+        "psr-4": {
+            "ErikFig\\": "src"
+        }
+    }
+}
